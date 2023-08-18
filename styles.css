@@ -3,8 +3,9 @@
 	background-color: rgb(0,0,0);
 	color:white;
 }
-td,th,tr{
+td,th,tr,table{
 	text-align:center;
+	stretch:cover;
 
 }
 /* Your CSS Code here. */
