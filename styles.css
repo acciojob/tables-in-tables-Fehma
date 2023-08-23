@@ -1,7 +1,6 @@
 #colors
 {
-	background-color: rgb(0,0,0);
-	color:white;
+	background-color: rgba(0,0,0,255);
 }
 td,th,tr{
 	text-align:center;
